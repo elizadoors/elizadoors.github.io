@@ -1,0 +1,45 @@
+body {
+  font-family: 'Ubuntu', sans-serif; }
+
+.navbar-default .navbar-nav > li > a {
+  color: black; }
+
+.navbar-default .navbar-brand {
+  color: black; }
+
+.dropdown__header {
+  padding-left: 20px;
+  font-size: 14px;
+  font-weight: bold; }
+
+.header__top {
+  height: 50px;
+  margin-bottom: 10px; }
+
+.header__brand {
+  margin-top: 15px;
+  font-size: 18px; }
+  .header__brand a {
+    color: black;
+    text-decoration: none; }
+
+.header__phone {
+  margin-top: 15px;
+  font-size: 18px; }
+
+h1 {
+  font-size: 22px; }
+
+h2 {
+  font-size: 20px; }
+
+h3 {
+  font-size: 18px; }
+
+h4 {
+  font-size: 16px; }
+
+.door_thumbnail {
+  border: none; }
+  .door_thumbnail img {
+    max-height: 400px; }
