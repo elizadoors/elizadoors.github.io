@@ -39,7 +39,12 @@ h3 {
 h4 {
   font-size: 16px; }
 
-.door_thumbnail {
+.door_listing_thumbnail {
   border: none; }
-  .door_thumbnail img {
-    max-height: 400px; }
+
+.caption p {
+  font-size: 16px;
+  color: black; }
+
+.door_detail_thumbnail {
+  border: none; }
